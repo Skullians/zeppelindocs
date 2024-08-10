@@ -30,3 +30,11 @@ It will generate a new world for you, or you can import your own by pasting the 
 ::: tip
 If you are having issues connecting, ensure you set the `server-ip` in `server.properties` to `0.0.0.0`, or whatever you prefer.
 :::
+
+## Boot Arguments
+There are a few select arguments that can be ran to enable certain functionalities.
+
+`--no-raw-terminal` - Disables the raw terminal option, which may be useful for systems that don't work well with it.
+`--no-plugins` - Disables plugin loading, which may be useful if your system does not support plugins (and want to disable the warning message).
+`--cpuprof` - Run Zeppelin with the CPU Profiler.
+`--memprof` - Run Zeppelin with the Memory Profiler
