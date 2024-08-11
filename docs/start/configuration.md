@@ -62,4 +62,8 @@ view-distance=10
 white-list=false
 ```
 
+::: warning
+Several aspects of this properties file are currently not implemented!
+:::
+
 The majority of this file is the same as vanilla, and you can view their functionality [here](https://minecraft.fandom.com/wiki/Server.properties).
