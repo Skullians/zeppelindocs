@@ -49,7 +49,7 @@ This is Zeppelin's roadmap (subject to change).
 - :white_check_mark: Server Registries
 - :white_check_mark: Shared Registries
 - :white_check_mark: Slot Data (no components)
-- :white_check_mark: Server List Ping (Icon WIP)
+- :white_check_mark: Server List Ping
 - :x: Multi Protocol
 
 ## Other
@@ -58,6 +58,6 @@ This is Zeppelin's roadmap (subject to change).
     - :white_check_mark: Reading
 - :white_check_mark: Text Formatting
 - :white_check_mark: RCON
-- :ballot_box_with_check: Command API (no arguments yet)
+- :ballot_box_with_check: Command API
 - :x: Language File for replacing built in messages
 - :x: Placeholder API
