@@ -14,6 +14,6 @@ hero:
 features:
   - title: Super fast and efficient
     icon: 🛫
-    details: Zeppelin was written mainly with efficency in mind. While still using a garbage collected language, Zeppelin has a low memory footprint
+    details: Zeppelin was written mainly with efficency in mind. While still using a garbage collected language, Zeppelin has a low memory footprint.
 ---
 
