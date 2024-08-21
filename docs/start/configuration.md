@@ -18,7 +18,6 @@ enable-chat=true # Whether to allow chat outright.
 enable-encryption=false # Whether to enable server encryption.
 chat-formatter=§ # What symbol to use for color formatting
 system-chat-format= # Format of the server system chat.
-server-brand-name=Zeppelin # Server brand shown in F3 on clients
 enforce-secure-profile=false
 enforce-whitelist=false
 entity-broadcast-range-precentage=100
@@ -66,4 +65,4 @@ white-list=false
 Several aspects of this properties file are currently not implemented!
 :::
 
-The majority of this file is the same as vanilla, and you can view their functionality [here](https://minecraft.fandom.com/wiki/Server.properties).
+The majority of this file is the same as vanilla, and you can view their functionality [here]([https://minecraft.fandom.com/wiki/Server.properties](https://minecraft.wiki/w/Server.properties)).
