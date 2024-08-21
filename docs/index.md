@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "Zeppelin"
-  text: "Fast, Reliable, Performant."
   tagline: A highly optimised Minecraft 1.21 server software written in Go.
   actions:
     - theme: brand
@@ -13,14 +12,8 @@ hero:
 
 
 features:
-  - title: Fast and Performant
+  - title: Super fast and efficient
     icon: 🛫
-    details: Written in Golang, Zeppelin is highly optimised and offers high performance on any kind of hardware.
-  - title: Highly Customisable
-    icon: 🖋️
-    details: Zeppelin offers control over every aspect of the game with more customisability.
-  - title: Plugin API
-    icon: 🛠️
-    details: Zeppelin has a Plugin API that allows developers to create custom unique plugins for Zeppelin.
+    details: Zeppelin was written mainly with efficency in mind. While still using a garbage collected language, Zeppelin has a low memory footprint
 ---
 
