@@ -10,7 +10,10 @@ Here is a short guide on how to setup and use Zeppelin.
 
 To run Zeppelin, you need to install [Go 1.22 or newer](https://go.dev/dl/), a C compiler, and libdeflate.
 
-You can install a C compiler & libdeflate through `sudo apt install libdeflate-dev -y`
+You can install libdeflate using
+Linux (debian): `sudo apt install libdeflate-dev -y`
+macOS (Homebrew): `brew install libdeflate`
+Windows (MinGW-64 / Msys2): `pacman -S mingw-w64-x86_64-libdeflate`
 
 ::: warning
 Zeppelin only natively supports [Unix](https://en.wikipedia.org/wiki/List_of_Unix_systems) systems (Linux, etc).\
