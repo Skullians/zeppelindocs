@@ -8,12 +8,12 @@ Here is a short guide on how to setup and use Zeppelin.
 
 ## Install Dependencies
 
-To run Zeppelin, you need to install [Golang 1.22 (or over)](https://go.dev/dl/), a C compiler, and libdeflate.
+To run Zeppelin, you need to install [Go 1.22 or newer](https://go.dev/dl/), a C compiler, and libdeflate.
 
-You can install a C compiler & libdeflate through `sudo apt install zlib1g-dev libdeflate-dev -y`
+You can install a C compiler & libdeflate through `sudo apt install libdeflate-dev -y`
 
 ::: warning
-Zeppelin only supports [Unix](https://en.wikipedia.org/wiki/List_of_Unix_systems) systems (Linux, etc).\
+Zeppelin only natively supports [Unix](https://en.wikipedia.org/wiki/List_of_Unix_systems) systems (Linux, etc).\
 Windows is not supported, however you can run it on WSL (recommended) or MYSYS2 as long as you have libdeflate installed.
 :::
 
